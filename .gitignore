@@ -1,5 +1,5 @@
 # Project specific (Mandatory rule)
-net_practice*
+# net_practice*
 
 # ----- C -----
 a.out
