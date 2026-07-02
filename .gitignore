@@ -1,0 +1,22 @@
+# Project specific (Mandatory rule)
+net_practice*
+
+# ----- C -----
+a.out
+*.o
+
+# ----- Python -----
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# python cache
+__pycache__/
+*_cache
+.mypy_cache/
+.ruff_cache/
